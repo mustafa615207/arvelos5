@@ -1,0 +1,89 @@
+{
+"BotSettings": {
+          "token": "OTYwMTMxMTIxMDA0MzE0NjY1.Ykl9yQ.H29mh3UfznjQmu5Gssj9irL_YH4",
+          "owner": "491680608301613066",
+          "prefix": ".",
+          "botStatus": ["BAKIMDA","ℵ Arvelos","HOŞGELDİNİZ"],
+          "botVoiceChannelID": "959042275411918865"
+      
+        
+
+    },
+  
+  
+  
+"Roles": {
+          "BoyRole1": "959042275315425299",
+          "BoyRole2": "ERKEK ROL 2",
+          "GirlRole1": "959042275332194374",
+          "GirlRole2": "KIZ ROL 2",
+          "Unregister": "959042275315425298",
+          "Registerer": "959042275332194381",
+          "TagRole": "959042275332194378",
+          "Suspicious": "959042275290271783"
+      
+    },
+  
+  
+    
+"Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+
+"ServerSettings": {
+            "ServerName": "ℵ Arvelos",
+            "ServerID": "959042275290271774",
+            "Tag": "ℵ",
+            "UnTag": "ℵ"
+    },
+"Channels": {
+            "RegisterChat": "959042275411918864",
+            "TagLog": "959042277521625100",
+            "Rules": "959042275810345058",
+            "GeneralChat": "959042276074610713"
+        },
+"Welcome": {
+            "WelcomeChat": "959042275411918864",
+            "WelcomeName": "ℵ İsim | Yaş"
+        },
+  
+  
+  
+  
+  
+  "prefix":".",
+  
+  "sahip": "491680608301613066",
+  "kayıtLOG": "959042276074610713",
+  "tag" : "ℵ",
+  "kayıtsızROL": "959042275315425298",
+  "kayıtlıROL": "900429325424283739",
+  "kadınROL": "959042275332194374",
+  "erkekROL": "959042275315425299",
+  "yetkiliROL": "959042275332194381",
+  "TagRole": "959042275332194378",
+  
+  
+  
+  
+  "rolKorumaLogKanalID": "959042277521625105",
+  "kanalKorumaLogKanalID": "959042277521625105",
+  "ddosKorumaLogKanalID": "959042277521625104",
+  "banLogKanalID": "959042277521625101",
+  "unbanLogKanalID": "959042277521625103",
+  "giriskanal": "959042275411918864"
+  
+  
+  
+
+  
+  
+  
+  
+}
